@@ -1785,6 +1785,17 @@ body {
 .cid-qTkA127IK8 {
   background-image: url("../../../assets/images/765105-technology-background-images-1920x1080-free-download-1920x1080.jpg");
 }
+.cid-ro0iWpI8pQ {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-ro0iWpI8pQ P {
+  color: #767676;
+}
+.cid-ro0iWpI8pQ H1 {
+  color: #232323;
+}
 .cid-rnZbVXe7Q8 {
   padding-top: 90px;
   padding-bottom: 0px;
@@ -1844,9 +1855,58 @@ body {
   width: 100%;
   overflow: hidden;
 }
-.cid-qTkAaeaxX5 {
+.cid-ro0iBuGebA {
   padding-top: 30px;
-  padding-bottom: 30px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-ro0iBuGebA P {
+  color: #767676;
+}
+.cid-ro0aTuF5Jy {
+  padding-top: 60px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-ro0aTuF5Jy .mbr-text {
+  color: #767676;
+}
+.cid-ro0aTuF5Jy h4 {
+  text-align: center;
+}
+.cid-ro0aTuF5Jy p {
+  text-align: center;
+}
+.cid-ro0aTuF5Jy .card-img span {
+  font-size: 96px;
+  color: #149dcc;
+}
+.cid-ro0efEtuqY {
+  padding-top: 0px;
+  padding-bottom: 60px;
+  background-color: #efefef;
+}
+.cid-ro0efEtuqY .mbr-text {
+  color: #767676;
+}
+.cid-ro0efEtuqY h4 {
+  text-align: center;
+}
+.cid-ro0efEtuqY p {
+  text-align: center;
+}
+.cid-ro0efEtuqY .card-img span {
+  font-size: 96px;
+  color: #149dcc;
+}
+.cid-ro0kqKzPhn {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/3d-architecture-project-wallpaper-1920x1200.jpg");
+}
+.cid-qTkAaeaxX5 {
+  padding-top: 45px;
+  padding-bottom: 45px;
   background-color: #2e2e2e;
 }
 @media (max-width: 767px) {
